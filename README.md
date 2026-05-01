@@ -2,15 +2,15 @@ Car Price Analysis Notebook
 This notebook performs an exploratory data analysis (EDA) on a car dataset to understand various factors influencing car prices.
 
 Table of Contents
-Introduction
-Data Loading and Initial Inspection
-Data Cleaning and Preprocessing
-Exploratory Data Analysis (EDA)
-Descriptive Statistics
-Feature Normalization
-Data Binning
-Visualizations
-Libraries Used
+Introduction,
+Data Loading and Initial Inspection,
+Data Cleaning and Preprocessing,
+Exploratory Data Analysis (EDA),
+Descriptive Statistics,
+Feature Normalization,
+Data Binning,
+Visualizations,
+Libraries Used.
 1. Introduction
 This project aims to analyze a dataset of car features to identify key relationships and patterns that affect car prices. The notebook covers data loading, cleaning, transformation, and various visualizations to gain insights into the data.
 
